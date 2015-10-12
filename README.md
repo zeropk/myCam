@@ -17,7 +17,10 @@
 ## myCam Dimension
 [myCam layout figure]
 
-[Introduce movie clip[
+[Introduce movie clip]
 
 # Tutorial
-Detailed description is [here](tutorial).
+Detailed description is here.
+
+# Examples
+* Odroid
