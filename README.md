@@ -20,7 +20,7 @@
 [Introduce movie clip]
 
 # Tutorial
-Detailed description is here.
+Detailed description is [here](tutorial).
 
 # Examples
-* Odroid
+* [Odroid XU4](odroid XU4)
