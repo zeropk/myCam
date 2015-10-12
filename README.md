@@ -1,2 +1,2 @@
 # myCam
-<myCAM H/W 사진>
+[myCAM H/W 사진]
