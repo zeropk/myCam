@@ -23,4 +23,4 @@
 Detailed description is [here](tutorial).
 
 # Examples
-* [Odroid XU4](odroid XU4)
+* [Odroid XU4](Odroid_XU4)
