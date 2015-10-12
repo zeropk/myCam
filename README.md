@@ -1,3 +1,2 @@
 # myCam
-Test page
-d
+<myCAM H/W 사진>
