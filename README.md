@@ -20,3 +20,4 @@
 [Introduce movie clip[
 
 # Tutorial
+Detailed description is here.
